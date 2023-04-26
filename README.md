@@ -1,4 +1,7 @@
 Guided Capstone Project 
+
+
+
 Your client is Big Mountain Resort, a ski resort located in Montana. Big Mountain Resort
 offers spectacular views of Glacier National Park and Flathead National Forest, with
 access to 105 trails. Every year about 350,000 people ski or snowboard at Big Mountain.
