@@ -23,7 +23,9 @@ select a better value for their ticket price. They are also considering a number
 changes that they hope will either cut costs without undermining the ticket price or will
 support an even higher ticket price.
 
-Problem Statement Worksheet Sections
+Problem Statement Worksheet
+
+
 What is the business problem you're investigating and what hypothesis can be made to
 support the business outcome?
 Tip: Review the last paragraph of the overview and generate ideas about how to
